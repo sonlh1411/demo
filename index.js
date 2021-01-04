@@ -1,3 +1,4 @@
 const gitDemo () => {
-    return ("Test git terminal")
+    const text = "modified text"
+    return(text)
 }
