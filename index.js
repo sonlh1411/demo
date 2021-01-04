@@ -1,4 +1,4 @@
-const gitDemo () => {
-    const text = "modified text"
-    return(text)
-}
+const gitDemo = () => {
+  const text = "modified text";
+  return text;
+};
